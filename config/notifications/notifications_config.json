@@ -1,0 +1,41 @@
+{
+  "app": {
+    "bot": {
+      "token": "",
+      "chat": "automation_team_notifications",
+      "replyTo": ""
+    },
+    "base": {
+      "lang": "ru",
+      "messenger": "slack",
+      "allureFolder": "target/site/allure-maven-plugin/",
+      "mattermostUrl": "",
+      "chart": true,
+      "chartName": "",
+      "project": ""
+    },
+    "mail": {
+      "host": "",
+      "port": "",
+      "username": "",
+      "password": "",
+      "enableSSL": false,
+      "from": "",
+      "recipient": ""
+    },
+    "proxy": {
+      "host": "",
+      "port": 0,
+      "username": "",
+      "password": ""
+    },
+    "skype": {
+      "appId": "",
+      "appSecret": "",
+      "serviceUrl": "",
+      "conversationId": "",
+      "botId": "",
+      "botName": ""
+    }
+  }
+}
